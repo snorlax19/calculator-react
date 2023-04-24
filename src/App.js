@@ -15,7 +15,7 @@ function App() {
     } else if (months >= 12) {
       return `${months} months 😅`;
     } else if (months >= 24) {
-      return `${months} months 😔`;
+      return `${months} months 😭`;
     } else {
       return `${months} months`;
     }
